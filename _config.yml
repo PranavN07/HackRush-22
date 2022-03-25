@@ -1,4 +1,4 @@
-title: Aniket Rajnish
+title: Pranav Ninawe
 
 
 markdown: kramdown
@@ -14,7 +14,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: " Nothing About"
    link: "/me/" 
  - name: "CV"
    link: "Resume.pdf"
